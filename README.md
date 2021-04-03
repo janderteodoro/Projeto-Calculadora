@@ -1,5 +1,9 @@
-# Projeto-Calculadora
- Projeto de uma calculadora o mais simples possível, usando a lib PyQT5 e CSS.
+# Projeto-Calculadora #
+ Projeto de uma calculadora o mais simples possível, bem pythônico.
+ 
+ 
+ 
+ 
  ---
  ## O que encontrará neste projeto? 
 - [x] Muito **Python** 🐍
