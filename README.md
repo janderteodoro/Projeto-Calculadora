@@ -18,5 +18,5 @@
 ## Como colocar para rodar ##
 Simplesmente baixar o arquivo py, e dar um um **RUN**
 ---
-##Desafio...##
+## Desafio... ##
 Que tal usá-la como base para criar uma calculadora científica? 
