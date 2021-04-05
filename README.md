@@ -10,3 +10,8 @@
 - [x] Uso da mais poderosa biblioteca de GUI do py -> **PyQT5**
 - [x] Para deixar tudo estilosinho... **CSS**
 - [x] E muita POO para deixar tudo organizado
+
+---
+## Layout da calculadora ##
+![imagem]![Capturar](https://user-images.githubusercontent.com/79011974/113586383-cfc82200-9603-11eb-9ae3-e42a4f04c982.PNG)
+
