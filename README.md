@@ -13,5 +13,5 @@
 
 ---
 ## Layout da calculadora ##
-![imagem]![Capturar](https://user-images.githubusercontent.com/79011974/113586383-cfc82200-9603-11eb-9ae3-e42a4f04c982.PNG)
+![Capturar](https://user-images.githubusercontent.com/79011974/113586383-cfc82200-9603-11eb-9ae3-e42a4f04c982.PNG)
 
