@@ -15,7 +15,7 @@
 ## Layout da calculadora ##
 ![Capturar](https://user-images.githubusercontent.com/79011974/113586383-cfc82200-9603-11eb-9ae3-e42a4f04c982.PNG)
 ---
-## Como colocar para rodar 
+## Como colocar para rodar ##
 Simplesmente baixar o arquivo py, e dar um um **RUN**
 ---
 ## Desafio... ##
