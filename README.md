@@ -11,4 +11,3 @@
 ### Simplesmente baixar o arquivo py, e dar um um *RUN* ###
 ## Desafio ... ##
 ### Que tal usá-la como base para criar uma calculadora científica? ###
-
