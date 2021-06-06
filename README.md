@@ -14,6 +14,4 @@
 <p>
   Seque abaixo um exemplo da mesma funcioando...
 </p>
-<video>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6784223833369980928?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
-</video>
